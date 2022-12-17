@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeWageProblem
 {
-    internal class DailyWage
+    public class DailyWage
     {
 
         public static void EmployeeWage()
