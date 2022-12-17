@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             
-            PartTime.EmpPartTime();
+            SwitchCase.CaseSwitch();
         
         
         }
