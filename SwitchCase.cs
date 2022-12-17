@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeWageProblem
 {
-    internal class SwitchCase
+    public class SwitchCase
     {
 
         public const int Is_Full_Time = 1;
