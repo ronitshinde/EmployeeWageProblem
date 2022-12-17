@@ -26,6 +26,7 @@ namespace EmployeeWageProblem
 
             while (TotalEmphours < Max_Hours_In_Month && Totalworkingdays < Num_Of_Working_Days)
             {
+
                 Totalworkingdays++;
                 Random random = new Random();
                 int empcheck = random.Next(3);
